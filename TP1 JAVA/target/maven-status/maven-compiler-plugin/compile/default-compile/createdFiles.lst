@@ -1,0 +1,16 @@
+MEDIEVALBATTLE\Main.class
+MEDIEVALBATTLE\Personagens\Herois\Guerreiro.class
+MEDIEVALBATTLE\Personagens\Monstros\Kobold.class
+MEDIEVALBATTLE\Exceptions\HeroiInvalidoException.class
+MEDIEVALBATTLE\GravarLog.class
+MEDIEVALBATTLE\Personagens\Monstros\Orc.class
+MEDIEVALBATTLE\Metodos\Metodos.class
+MEDIEVALBATTLE\Personagens\Monstros\MortoVivo.class
+MEDIEVALBATTLE\Personagens\Herois\Paladino.class
+MEDIEVALBATTLE\Personagens\Player.class
+ProgramaDeRelatorios\Main.class
+ProgramaDeRelatorios\Relatorio.class
+MEDIEVALBATTLE\Personagens\Herois\Barbaro.class
+MEDIEVALBATTLE\Exceptions\MonstroInvalidoException.class
+org\example\App.class
+MEDIEVALBATTLE\Personagens\IPersonagem.class
